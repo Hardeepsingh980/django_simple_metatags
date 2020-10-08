@@ -15,7 +15,7 @@
     ]
     ```
 
-2. Run ``python manage.py migrate`` to create the polls models.
+2. Run ``python manage.py migrate`` to create the models.
 
 3. Load metatags templates tags in base.html::
 
