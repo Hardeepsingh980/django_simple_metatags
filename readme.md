@@ -21,7 +21,7 @@
 
     ``{% load metatags %}``
 
-4. Add metatags tag in head of body or any page where you want to add meta tags to.
+4. Add metatags tag in head of base.html or any page where you want to add meta tags to.
 
     ```
     <head>
