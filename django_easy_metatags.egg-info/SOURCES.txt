@@ -1,0 +1,16 @@
+setup.cfg
+setup.py
+django_easy_metatags.egg-info/PKG-INFO
+django_easy_metatags.egg-info/SOURCES.txt
+django_easy_metatags.egg-info/dependency_links.txt
+django_easy_metatags.egg-info/top_level.txt
+metatags/__init__.py
+metatags/admin.py
+metatags/apps.py
+metatags/models.py
+metatags/tests.py
+metatags/views.py
+metatags/migrations/0001_initial.py
+metatags/migrations/__init__.py
+metatags/templatetags/__init__.py
+metatags/templatetags/metatags.py
